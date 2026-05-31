@@ -33,7 +33,7 @@ function TicTacToe() {
 
   return (
     <div className="container">
-      <h1>Tic Tac Toe Game</h1>
+      <h1>Tic Tac Toe Game By Ashish Kumar Mishra</h1>
 
       <div className="player-inputs">
         <input
